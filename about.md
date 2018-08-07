@@ -2,7 +2,7 @@
 title: About
 nav: false
 ---
-## Black Beauty  
+## Black Beauty
 <div><img src="{{ "/images/BB1.jpg" | absolute_url }}" alt="github octocat" style="width:10%;" ></div>    
 
 
