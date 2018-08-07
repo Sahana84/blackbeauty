@@ -1,0 +1,34 @@
+
+# site settings
+title: my test blog!
+description: > 
+  Learn about GitHub pages and Jekyll. 
+keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
+
+# author settings for cc-by
+author: sahana ghosh
+pub_year: 2018
+github_username: Sahana84
+
+# add the full url for the github repository
+repo: "https://github.com/Sahana84/test-blog"
+
+# urls
+# your gh-pages url: https://Sahana84.github.io
+url: https://Sahana84.github.io
+# your repository name: /test-blog
+baseurl: /test-blog
+
+# analytics if desired (and use environment variable on build command)
+google_analytics: UA-74844011-1
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Build settings
+markdown: kramdown
+theme: minima
