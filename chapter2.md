@@ -57,7 +57,9 @@ whipped off the dogs, who would soon have torn her to pieces. He held
 her up by the leg, torn and bleeding, and all the gentlemen seemed well
 pleased.
 
+
 ---
+
 
 As for me, I was so astonished that I did not at first see what was
 going on by the brook; but when I did look, there was a sad sight; two
@@ -98,7 +100,9 @@ My mother seemed much troubled; she said she had known that horse for
 years, and that his name was Rob Roy; he was a good horse, and there was
 no vice in him. She never would go to that part of the field afterwards.
 
+
 ---
+
 
 Not many days after, we heard the church-bell tolling for a long time,
 and looking over the gate, we saw a long strange black coach that was
