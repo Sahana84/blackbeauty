@@ -17,7 +17,9 @@ stand by the pond in the shade of the trees, and when it was cold we had a warm 
 There were six young colts in the meadow beside me; they were older than I was. I used to run with them, and had great fun; we used to gallop all together round the field, as hard as we could go. Sometimes we had
 rather rough play, for they would bite and kick, as well as gallop.
 
+
 ---
+
 
 One day, when there was a good deal of kicking, my mother whinnied to me
 to come to her, and then she said: "I wish you to pay attention to what
@@ -30,7 +32,9 @@ seen me kick or bite. I hope you will grow up gentle and good, and never
 learn bad ways; do your work with a good will, lift your feet up well
 when you trot, and never bite or kick even in play."
 
+
 ---
+
 
 I have never forgotten my mother's advice. I knew she was a wise old
 horse, and our master thought a great deal of her. Her name was Duchess,
