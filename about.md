@@ -11,6 +11,7 @@ This unique tale is narrated by a lovely, gentle horse named Black Beauty and ha
 The treatment of animals, their welfare and the conditions in which they're kept, the often inhuman and cruel attitude of people and animal rights are some of the topics touched upon. It is a book that can be read on several levels. For child readers, it is a delightful tale told by an animal. Adults would recognize the essential humanitarian appeal made by the author. In fact, such was the impact of the book that it led to several landmark legislations regarding animal welfare in Britain and America.
 
 ---
+
 ### Plot
 
 *Black Beauty spends his youth in a loving home, surrounded by friends and cared for by his owners. But when circumstances change, he learns that not all humans are so kind. Passed from hand to hand, Black Beauty witnesses love and cruelty, wealth and poverty, friendship and hardship . . . Will the handsome horse ever find a happy and lasting home?*
