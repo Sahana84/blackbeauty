@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div> 
-    <img src="{{ "/images/octocat.jpg" | absolute_url }}" alt="github octocat" style="width:25%;" >    
+    <img src="{{ "/images/BlackBeauty.jpg" | absolute_url }}" alt="github octocat" style="width:37%;" >    
 </div>
 
 # This is a test-blog to create static website with Jekyll and GitHub Pages 
