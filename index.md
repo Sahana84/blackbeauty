@@ -2,6 +2,10 @@
 title: Home
 ---
 
+<div> 
+    <img src="{{ "/images/octocat.jpg" | absolute_url }}" alt="github octocat" style="width:25%;" >    
+</div>
+
 # This is a test-blog to create static website with Jekyll and GitHub Pages 
 
 With [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) you can quickly create and publish a website for free! 
