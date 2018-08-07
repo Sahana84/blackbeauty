@@ -1,6 +1,6 @@
 ---
 title: About
-nav: true
+nav: false
 ---
 # Hello folks!
 ## This is my test blog.
