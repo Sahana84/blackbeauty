@@ -6,10 +6,20 @@ title: Home
     <img src="{{ "/images/BlackBeauty.jpg" | absolute_url }}" alt="github octocat" style="width:37%;" >    
 </div>
 
-# This is a test-blog to create static website with Jekyll and GitHub Pages 
+# Black Beauty 
 
-With [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) you can quickly create and publish a website for free! 
-It is an ideal solution for creating a simple project or personal site to highlight your academic work. 
+---
+
+### Title: Black Beauty, Young Folks' Edition
+
+### Author: Anna Sewell
+
+### Release Date: March 31, 2004 
+
+### Language: English
+
+
+
 
 <div class="toc" markdown="1">
 ## Contents:
