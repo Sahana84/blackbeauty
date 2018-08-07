@@ -6,9 +6,10 @@ nav: false
 <div><img src="{{ "/images/BB1.jpg" | absolute_url }}" alt="github octocat" style="width:10%;" ></div>    
 
 
-**Black Beauty is one of the all-time favorite classic stories that capture the heart and imagination of young readers.**
+
+**Black Beauty is one of the eternal classic stories that has captured the heart and imagination of readers of all ages.**
  
-This unique tale is narrated by a lovely, gentle horse named Black Beauty and has remained a children's classic since it was first published in 1877. It earned eternal name and fame for its author **Anna Sewell**, an invalid who died within a few months of publication. According to current estimates, it has sold more than fifty million copies world wide, been translated into many languages and delighted generations of children.
+This unique tale is narrated by a lovely, gentle horse named **Black Beauty** and has remained a children's classic since it was first published in 1877. It earned eternal name and fame for its author **Anna Sewell**, an invalid who died within a few months of publication. According to current estimates, it has sold more than fifty million copies world wide, been translated into many languages and delighted generations of children.
 
 The treatment of animals, their welfare and the conditions in which they're kept, the often inhuman and cruel attitude of people and animal rights are some of the topics touched upon. It is a book that can be read on several levels. For child readers, it is a delightful tale told by an animal. Adults would recognize the essential humanitarian appeal made by the author. In fact, such was the impact of the book that it led to several landmark legislations regarding animal welfare in Britain and America.
 
