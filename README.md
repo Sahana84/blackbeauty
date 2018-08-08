@@ -2,7 +2,7 @@
 
 # BLACK BEAUTY
 
-# BY Anna Sewell
+# By Anna Sewell
 
 # YOUNG FOLKS' EDITION
 
