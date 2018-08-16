@@ -28,3 +28,8 @@
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
 {% endfor %}
 </div>
+
+
+
+
+[View On GitHubhttps:] (//github.com/Sahana84/blackbeauty)
