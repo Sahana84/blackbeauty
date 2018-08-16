@@ -19,6 +19,7 @@ url: https://Sahana84.github.io
 # your repository name: /blackbeauty
 baseurl: /blackbeauty
 
+
 # analytics if desired (and use environment variable on build command)
 google_analytics: UA-74844011-1
 
