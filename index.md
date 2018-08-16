@@ -4,7 +4,7 @@
     <img src="{{ "/images/BlackBeauty.jpg" | absolute_url }}" alt="github octocat" style="width:37%;" >    
 </div>
 
-# Black Beauty                                                          [View On GitHub](https//github.com/Sahana84/blackbeauty)
+# Black Beauty
 
 ---
 
