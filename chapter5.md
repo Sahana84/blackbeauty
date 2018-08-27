@@ -115,3 +115,5 @@ cheerful, plucky, good-tempered little fellow, that he was a favorite
 with every one, and especially with Miss Jessie and Flora, who used to
 ride him about in the orchard, and have fine games with him and their
 little dog Frisky.
+
+{% include disqus.html %}
