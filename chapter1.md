@@ -69,3 +69,4 @@ shall not want you on my farm again." So we never saw Dick any more. Old
 Daniel, the man who looked after the horses, was just as gentle as our
 master; so we were well off.
 
+{% include disqus.html %}
