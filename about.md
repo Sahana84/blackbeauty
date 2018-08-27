@@ -27,9 +27,4 @@ The treatment of animals, their welfare and the conditions in which they're kept
 
 
  {% include disqus.html %}
-<script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
-        issue-term="pathname"
-        crossorigin="anonymous"
-        async>
-</script>
+
