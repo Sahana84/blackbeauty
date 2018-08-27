@@ -2,6 +2,7 @@
 title: About
 nav: true
 ---
+
 ## Black Beauty
 <div><img src="{{ "/images/BB1.jpg" | absolute_url }}" alt="github octocat" style="width:10%;" ></div>    
 
@@ -25,7 +26,7 @@ The treatment of animals, their welfare and the conditions in which they're kept
 >                — Black Beauty, Chapter 13, last paragraph.
 
 
-  
+ {% include disqus.html %}
 <script src="https://utteranc.es/client.js"
         repo="[ENTER REPO HERE]"
         issue-term="pathname"
