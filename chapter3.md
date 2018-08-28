@@ -122,4 +122,3 @@ fall into good hands, but a horse never knows who may buy him, or who
 may drive him; it is all a chance for us; but still I say, do your best
 wherever it is, and keep up your good name."
 
-{% include disqus.html %}
