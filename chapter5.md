@@ -116,3 +116,9 @@ with every one, and especially with Miss Jessie and Flora, who used to
 ride him about in the orchard, and have fine games with him and their
 little dog Frisky.
 
+<script src="https://utteranc.es/client.js"	
+		repo="Sahana84/blackbeauty"
+		branch="master"
+		issue-term="url"
+		async>
+		</script>	
