@@ -26,5 +26,3 @@ The treatment of animals, their welfare and the conditions in which they're kept
 >                — Black Beauty, Chapter 13, last paragraph.
 
 
- {% include disqus.html %}
-
