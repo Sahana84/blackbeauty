@@ -1,7 +1,6 @@
 ---
 title: About
 nav: true
-layout: default
 ---
 
 ## Black Beauty
@@ -27,3 +26,9 @@ The treatment of animals, their welfare and the conditions in which they're kept
 >                — Black Beauty, Chapter 13, last paragraph.
 
 
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        crossorigin="anonymous"
+        async>
+</script>
