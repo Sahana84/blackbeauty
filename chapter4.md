@@ -88,3 +88,9 @@ groom that ever was; he has been here fourteen years; and you never saw
 such a kind boy as James is, so that it is all Ginger's own fault that
 she did not stay in that box."
 
+<script src="https://utteranc.es/client.js"	
+		repo="Sahana84/blackbeauty"
+		branch="master"
+		issue-term="url"
+		async>
+		</script>	
