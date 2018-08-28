@@ -88,4 +88,3 @@ groom that ever was; he has been here fourteen years; and you never saw
 such a kind boy as James is, so that it is all Ginger's own fault that
 she did not stay in that box."
 
-{% include disqus.html %}
