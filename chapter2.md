@@ -113,3 +113,9 @@ bury him. He would never ride again. What they did with Rob Roy I never
 knew; but 'twas all for one little hare.
 
 
+<script src="https://utteranc.es/client.js"	
+		repo="Sahana84/blackbeauty"
+		branch="master"
+		issue-term="url"
+		async>
+		</script>	
