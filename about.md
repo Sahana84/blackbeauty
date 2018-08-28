@@ -1,6 +1,7 @@
 ---
 title: About
 nav: true
+layout: default
 ---
 
 ## Black Beauty
