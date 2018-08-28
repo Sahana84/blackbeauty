@@ -25,9 +25,10 @@ The treatment of animals, their welfare and the conditions in which they're kept
 >".... there is no religion without love, and people may talk as much as they like about their religion, but if it does not teach them to be good and kind to man and beast, it is all a shame...."
 >                — Black Beauty, Chapter 13, last paragraph.
 
-<script src="https://utteranc.es/client.js"
-        repo="[blackbeauty]"
-        issue-term="Sahana84/blackbeauty"
-        crossorigin="anonymous"
-        async>
-</script>
+	<script src="https://utteranc.es/client.js"	
+		repo="Sahana84/blackbeauty"
+		branch="master"
+		issue-term="url"
+		async>
+		</script>
+
