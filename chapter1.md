@@ -2,7 +2,7 @@
 title: Chapter1
 nav: true
 ---
-{{page.url}}
+
 # CHAPTER I
 <div><img src="{{ "/images/BB1.jpg" | absolute_url }}" alt="github octocat" style="width:10%;" ></div> 
 
@@ -69,4 +69,3 @@ shall not want you on my farm again." So we never saw Dick any more. Old
 Daniel, the man who looked after the horses, was just as gentle as our
 master; so we were well off.
 
-{% include disqus.html %}
