@@ -1,6 +1,7 @@
 ---
 title: Chapter2
-nav: true
+sidebar:
+  nav: "docs"
 ---
 
 
