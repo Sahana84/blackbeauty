@@ -1,8 +1,7 @@
 - title: Home
     children:
       - title: "About the book"
-        url: /blackbeauty/about/
-   
+        url: /blackbeauty/about/   
   - title: Content
     children:
       - title: "Chapter1"
