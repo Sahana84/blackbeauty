@@ -32,9 +32,7 @@ defaults:
   - scope:
       path: ""
       type: docs
-    values:
-      sidebar:
-        nav: "docs"
+   
         
 
 # Build settings
