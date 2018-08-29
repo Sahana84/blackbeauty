@@ -1,6 +1,7 @@
 ---
 title: Chapter 3
-nav: true
+sidebar:
+  nav: "docs"
 ---
 
 # CHAPTER III
