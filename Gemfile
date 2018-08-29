@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 gemspec :name => "jekyll"
 
+gem "minimal-mistakes-jekyll"
 gem "rake", "~> 12.0"
 
 group :development do
