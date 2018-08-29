@@ -1,19 +1,19 @@
 - title: Home
     children:
       - title: "About the book"
-        url: /about/
+        url: /blackbeauty/about/
    
   - title: Content
     children:
       - title: "Chapter1"
-        url: /docs/chapter1/
+        url: /blackbeauty/docs/chapter1/
       - title: "Chapter2"
-        url: /docs/chapter2/
+        url: /blackbeauty/docs/chapter2/
       - title: "Chapter3"
-        url: /docs/chapter3/
+        url: /blackbeauty/docs/chapter3/
       - title: "Chapter4"
-        url: /docs/chapter4/
+        url: /blackbeauty/docs/chapter4/
       - title: "Chapter5"
-        url: /docs/chapter5/
+        url: /blackbeauty/docs/chapter5/
 
   
