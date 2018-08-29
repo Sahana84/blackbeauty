@@ -1,6 +1,7 @@
 ---
 title: Chapter 4
-nav: true
+sidebar:
+  nav: "docs"
 ---
 
 # CHAPTER IV
