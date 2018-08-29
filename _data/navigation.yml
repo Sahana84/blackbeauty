@@ -1,19 +1,15 @@
 docs:
-- title: Home
-    children: 
-      - title: "About the book"
-        url: /blackbeauty/about/   
-  - title: Content
-    children: 
-      - title: "Chapter1"
-        url: /blackbeauty/docs/chapter1/
-      - title: "Chapter2"
-        url: /blackbeauty/docs/chapter2/
-      - title: "Chapter3"
-        url: /blackbeauty/docs/chapter3/
-      - title: "Chapter4"
-        url: /blackbeauty/docs/chapter4/
-      - title: "Chapter5"
-        url: /blackbeauty/docs/chapter5/
-
-  
+ - title: About the book
+   url: /blackbeauty/about/ 
+ - title: Content      
+   children: 
+     - title: "Chapter1"
+     url: /blackbeauty/docs/chapter1/
+     - title: "Chapter2"
+     url: /blackbeauty/docs/chapter2/
+     - title: "Chapter3"
+     url: /blackbeauty/docs/chapter3/
+     - title: "Chapter4"
+     url: /blackbeauty/docs/chapter4/
+     - title: "Chapter5"
+     url: /blackbeauty/docs/chapter5/
