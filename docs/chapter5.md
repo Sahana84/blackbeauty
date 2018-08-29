@@ -1,6 +1,7 @@
 ---
 title: Chapter 5
-nav: true
+sidebar:
+  nav: "docs"
 ---
 
 # CHAPTER V
