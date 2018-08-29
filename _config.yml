@@ -25,10 +25,13 @@ google_analytics: UA-74844011-1
 
 # defaults (to simplify front matter)
 defaults:
+  # _docs
   - scope:
       path: ""
+      type: docs
     values:
-      layout: default
+      sidebar:
+        nav: "docs"
 
 # Build settings
 markdown: kramdown
