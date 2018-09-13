@@ -1,7 +1,6 @@
 ---
 title: About
-sidebar:
-  nav: "docs"
+nav: true
 ---
 
 ## Black Beauty
