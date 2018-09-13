@@ -23,25 +23,8 @@ baseurl: /blackbeauty
 # analytics if desired (and use environment variable on build command)
 google_analytics: UA-74844011-1
 
-# defaults (to simplify front matter)
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-toc: true
-toc_label: "On this page"
-toc_icon: "cog"
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-   
         
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+
