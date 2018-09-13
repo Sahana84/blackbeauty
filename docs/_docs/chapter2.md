@@ -1,6 +1,7 @@
 ---
 title: Chapter2
-nav: true
+sidebar:
+  nav: "docs"
 ---
 
 
@@ -119,3 +120,5 @@ knew; but 'twas all for one little hare.
 		issue-term="url"
 		async>
 		</script>	
+
+

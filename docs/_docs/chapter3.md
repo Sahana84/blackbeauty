@@ -1,6 +1,7 @@
 ---
 title: Chapter 3
-nav: true
+sidebar:
+  nav: "docs"
 ---
 
 # CHAPTER III
@@ -128,4 +129,6 @@ wherever it is, and keep up your good name."
 		issue-term="url"
 		async>
 		</script>	
+
+
 

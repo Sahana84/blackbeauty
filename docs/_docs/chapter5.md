@@ -1,6 +1,7 @@
 ---
 title: Chapter 5
-nav: true
+sidebar:
+  nav: "docs"
 ---
 
 # CHAPTER V
@@ -122,3 +123,5 @@ little dog Frisky.
 		issue-term="url"
 		async>
 		</script>	
+
+

@@ -1,6 +1,7 @@
 ---
 title: Chapter 4
-nav: true
+sidebar:
+  nav: "docs"
 ---
 
 # CHAPTER IV
@@ -94,3 +95,5 @@ she did not stay in that box."
 		issue-term="url"
 		async>
 		</script>	
+
+
